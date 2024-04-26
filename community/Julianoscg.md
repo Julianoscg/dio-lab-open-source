@@ -1,6 +1,7 @@
 ## Juliano Silva
     Seja bem vindo!
-    Começando agora nessa area de TI, formado em Análise é Desenvolvimentos de Sistemas e a procura de uma oportunidade para entrar na area enquanto ela não aparece vamos adquirindo conhecimento.
+    Começando agora nessa area de TI, formado em Análise é Desenvolvimentos de Sistemas 
+    e a procura de uma oportunidade para entrar na area enquanto ela não aparece vamos adquirindo conhecimento.
 
 ## Conecte-se comigo
 
